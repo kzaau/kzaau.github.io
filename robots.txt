@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kzaau.github.io/rVS/sitemap.rVS.gz
